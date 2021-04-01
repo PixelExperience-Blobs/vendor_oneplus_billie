@@ -99,8 +99,6 @@ PRODUCT_PACKAGES += \
     libantradio \
     WfdService \
     QtiTelephonyService \
-    HotwordEnrollmentOKGoogleHEXAGON \
-    HotwordEnrollmentXGoogleHEXAGON \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
